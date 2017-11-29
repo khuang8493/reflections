@@ -1,0 +1,1 @@
+I learned that by using FC command all the changes will be listed automatically, makes it easy to compare.
